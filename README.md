@@ -1,7 +1,4 @@
-## About me!!
+My name is Lâm Hoàng Phúc
+I'm a backend developer
 
-A few things about myself,
-
-- My name is Lâm Hoàng Phúc
-- I'm a backend developer
-- I'm using python, golang, rust
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/tcmits){:target="_blank"}
